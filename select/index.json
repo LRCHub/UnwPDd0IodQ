@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "GIRIGIRI",
+  "base_artist": "Sonar Pocket",
+  "createdAt": "2025-12-25T03:04:11.256069Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Girigiri Safe",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": true,
+      "path": "select/01_Girigiri_Safe_Kyary_Pamyu_Pamyu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Girigiri Safe [ぎりぎりセーフ]",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": true,
+      "path": "select/02_Girigiri_Safe_[ぎりぎりセーフ]_Kyary_Pamyu_Pamyu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "GIRIGIRI",
+      "artist": "Suzuki Masayuki",
+      "has_synced": true,
+      "path": "select/03_GIRIGIRI_Suzuki_Masayuki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "girigiri safe (ぎりぎりセーフ)",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": true,
+      "path": "select/04_girigiri_safe_(ぎりぎりセーフ)_Kyary_Pamyu_Pamyu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "GIRIGIRI—世界極限—",
+      "artist": "影山ヒロノブ & YUKA",
+      "has_synced": false,
+      "path": "select/05_GIRIGIRI—世界極限—_影山ヒロノブ_&_YUKA.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "GIRIGIRI—世界極限— 〜EXTREME HARD METAL MIX〜",
+      "artist": "影山ヒロノブ & YUKA",
+      "has_synced": false,
+      "path": "select/06_GIRIGIRI—世界極限—_〜EXTREME_HARD_METAL_MIX〜_影山ヒロノブ_&_YUKA.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "GIRIGIRI",
+      "artist": "Sonar Pocket",
+      "has_synced": true,
+      "path": "select/07_GIRIGIRI_Sonar_Pocket.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "GIRIGIRI",
+      "artist": "Sonar Pocket",
+      "has_synced": true,
+      "path": "select/08_GIRIGIRI_Sonar_Pocket.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "GIRIGIRI—世界極限—",
+      "artist": "影山ヒロノブ",
+      "has_synced": true,
+      "path": "select/09_GIRIGIRI—世界極限—_影山ヒロノブ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Girigiri chop",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/10_Girigiri_chop_B'z.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ギリギリRide it out - Girigiri Ride it out",
+      "artist": "FANTASTICS from EXILE TRIBE",
+      "has_synced": true,
+      "path": "select/11_ギリギリRide_it_out_-_Girigiri_Ride_it_out_FANTASTICS_from_EXILE_TRIBE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "girigiri safe",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": true,
+      "path": "select/12_girigiri_safe_Kyary_Pamyu_Pamyu.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "GiriGiri Surfrider",
+      "artist": "HALCALI",
+      "has_synced": true,
+      "path": "select/13_GiriGiri_Surfrider_HALCALI.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "GIRIGIRI",
+      "artist": "Sonar Pocket & Yu Manabe Strings",
+      "has_synced": true,
+      "path": "select/14_GIRIGIRI_Sonar_Pocket_&_Yu_Manabe_Strings.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Girigiri Highway",
+      "artist": "人間椅子",
+      "has_synced": false,
+      "path": "select/15_Girigiri_Highway_人間椅子.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "GiriGiri chop",
+      "artist": "B’z",
+      "has_synced": true,
+      "path": "select/16_GiriGiri_chop_B’z.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GIRIGIRI",
+      "artist": "ソナーポケット",
+      "has_synced": false,
+      "path": "select/pl_01_GIRIGIRI_ソナーポケット.txt"
+    }
+  ]
+}
